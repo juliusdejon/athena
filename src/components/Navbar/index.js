@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div className="navbar">
       <div className="navbar-container">
-        <Link className="navbar-logo">JD</Link>
+        <Link className="navbar-logo">JD supply co</Link>
         <div className="menu-icon"></div>
       </div>
     </div>
