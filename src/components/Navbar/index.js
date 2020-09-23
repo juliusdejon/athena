@@ -9,7 +9,7 @@ function Navbar() {
         <div className="navbar-logo-container">JD</div>
         <div className="menu-list-container">
           <ul className="menu-list">
-            <li className="menu">About Me</li>
+            <li className="menu">About</li>
             <li className="menu">Skills</li>
             <li className="menu">Projects</li>
             <li className="menu">Contact</li>

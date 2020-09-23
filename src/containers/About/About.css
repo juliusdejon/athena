@@ -1,0 +1,40 @@
+.about-wrapper {
+  display: flex;
+  position: relative;
+  background-color: #1c3548;
+  min-width: 100%;
+}
+.absolute-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.about-container {
+  min-height: 50vh;
+  align-items: center;
+  margin: 140px 0px 0px 120px;
+}
+
+.introduction {
+  font-weight: bold;
+  color: white;
+}
+
+.name {
+  margin-top: 12px;
+  font-size: 44px;
+  font-weight: bold;
+  background-image: linear-gradient(to right, #e77d11, #fda400);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.description {
+  margin-top: 12px;
+  color: #ff5064;
+  font-size: 22px;
+}
