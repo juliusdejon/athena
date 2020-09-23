@@ -14,24 +14,9 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: "D-DIN", Helvetica, arial, sans-serif;
+  font-family: "D-DIN", sans-serif;
 }
 
 body {
   background-color: #1c3548;
-}
-
-.App {
-  background-color: #252852;
-  color: white;
-}
-
-.navbar {
-  background-color: #333976;
-}
-.header {
-  background-color: #152748;
-}
-.footer {
-  background-color: #ff5064;
 }
