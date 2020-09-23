@@ -12,10 +12,18 @@ function Navbar() {
         </div>
         <div className="menu-list-container">
           <ul className="menu-list">
-            <li className="menu">About</li>
-            <li className="menu">Skills</li>
-            <li className="menu">Projects</li>
-            <li className="menu">Contact</li>
+            <li className="menu">
+              <a>About</a>
+            </li>
+            <li className="menu">
+              <a>Skills</a>
+            </li>
+            <li className="menu">
+              <a>Projects</a>
+            </li>
+            <li className="menu">
+              <a>Contact</a>
+            </li>
           </ul>
         </div>
       </div>

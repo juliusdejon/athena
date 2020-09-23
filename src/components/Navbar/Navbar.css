@@ -28,3 +28,24 @@
   text-decoration: none;
   color: white;
 }
+
+.menu a {
+  cursor: pointer;
+  text-decoration: none;
+  background: linear-gradient(currentColor, currentColor) bottom / 0 0.1em
+    no-repeat;
+  transition: 0.3s background-size;
+}
+
+.menu a:hover {
+  background-size: 100% 0.1em;
+}
+
+/* Variations */
+a.left {
+  background-position: left bottom;
+}
+
+a.right {
+  background-position: right bottom;
+}
