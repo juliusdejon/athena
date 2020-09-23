@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "D-DIN";
+  src: url(../../assets/fonts/D-DIN.otf) format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "D-DIN";
+  src: url(../../assets/fonts/D-DIN-Bold.otf) format("truetype");
+  font-weight: bold;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "D-DIN", Helvetica, arial, sans-serif;
+}
+
+body {
+  background-color: #1c3548;
+}
+
+.App {
+  background-color: #252852;
+  color: white;
+}
+
+.navbar {
+  background-color: #333976;
+}
+.header {
+  background-color: #152748;
+}
+.footer {
+  background-color: #ff5064;
+}
