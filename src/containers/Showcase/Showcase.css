@@ -1,8 +1,7 @@
 .showcase-container {
   background-image: url("../../assets/images/buildings.png");
   background-size: cover;
-  object-fit: cover;
-  height: 600px;
+  height: 100vh;
   width: 100%;
   position: relative;
 }

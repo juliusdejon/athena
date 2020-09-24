@@ -1,6 +1,6 @@
 import React from "react";
 
-import logo from "assets/images/logo.png";
+import earth from "assets/images/earth.png";
 import "./Navbar.css";
 
 function Navbar() {
@@ -8,7 +8,7 @@ function Navbar() {
     <div className="navbar">
       <div className="navbar-container">
         <div className="navbar-logo-container">
-          <img src={logo} alt="space" />
+          <img src={earth} alt="space" />
         </div>
         <div className="menu-list-container">
           <ul className="menu-list">
