@@ -29,7 +29,7 @@
   color: white;
 }
 
-.menu a {
+.menu span {
   cursor: pointer;
   text-decoration: none;
   background: linear-gradient(currentColor, currentColor) bottom / 0 0.1em
@@ -38,15 +38,15 @@
   text-transform: uppercase;
 }
 
-.menu a:hover {
+.menu span:hover {
   background-size: 100% 0.1em;
 }
 
 /* Variations */
-a.left {
+span.left {
   background-position: left bottom;
 }
 
-a.right {
+span.right {
   background-position: right bottom;
 }

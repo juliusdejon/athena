@@ -13,13 +13,13 @@ function Navbar() {
         <div className="menu-list-container">
           <ul className="menu-list">
             <li className="menu">
-              <a>Projects</a>
+              <span>Projects</span>
             </li>
             <li className="menu">
-              <a>Experience</a>
+              <span>Experience</span>
             </li>
             <li className="menu">
-              <a>Contact</a>
+              <span>Contact</span>
             </li>
           </ul>
         </div>
