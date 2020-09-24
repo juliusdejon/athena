@@ -2,7 +2,7 @@
   "name": "athena",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juliusdejon.github.io/athena/",
+  "homepage": "https://juliusdejon.github.io/athena",
   "dependencies": {
     "@reach/router": "^1.3.4",
     "@testing-library/jest-dom": "^4.2.4",
