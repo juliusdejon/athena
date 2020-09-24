@@ -1,7 +1,7 @@
 .navbar-container {
   display: flex;
   height: 10vh;
-  background-color: #1c3548;
+  /* background-color: #1c3548; */
 }
 .navbar-container img {
   margin-top: 16px;
