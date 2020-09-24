@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/athena/static/css/main.3f8c35e0.chunk.css",
+    "main.js": "/athena/static/js/main.48513412.chunk.js",
+    "main.js.map": "/athena/static/js/main.48513412.chunk.js.map",
+    "runtime-main.js": "/athena/static/js/runtime-main.e6493b04.js",
+    "runtime-main.js.map": "/athena/static/js/runtime-main.e6493b04.js.map",
+    "static/js/2.efde223b.chunk.js": "/athena/static/js/2.efde223b.chunk.js",
+    "static/js/2.efde223b.chunk.js.map": "/athena/static/js/2.efde223b.chunk.js.map",
+    "index.html": "/athena/index.html",
+    "precache-manifest.f4962c2fa497d1a579d3645e88e336c9.js": "/athena/precache-manifest.f4962c2fa497d1a579d3645e88e336c9.js",
+    "service-worker.js": "/athena/service-worker.js",
+    "static/css/main.3f8c35e0.chunk.css.map": "/athena/static/css/main.3f8c35e0.chunk.css.map",
+    "static/js/2.efde223b.chunk.js.LICENSE.txt": "/athena/static/js/2.efde223b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/athena/static/media/cursor.db7a11ac.cur",
+    "static/media/Showcase.css": "/athena/static/media/buildings.e62b18ad.png",
+    "static/media/earth.png": "/athena/static/media/earth.b141b126.png",
+    "static/media/moon.png": "/athena/static/media/moon.fdec570a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6493b04.js",
+    "static/js/2.efde223b.chunk.js",
+    "static/css/main.3f8c35e0.chunk.css",
+    "static/js/main.48513412.chunk.js"
+  ]
+}
