@@ -56,8 +56,7 @@
 .earth-container {
   position: absolute;
   bottom: -55px;
-  left: 46%;
-  right: 56%;
+  right: 1%;
   cursor: pointer;
 }
 .earth-container img {
