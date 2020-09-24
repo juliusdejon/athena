@@ -35,6 +35,7 @@
   background: linear-gradient(currentColor, currentColor) bottom / 0 0.1em
     no-repeat;
   transition: 0.3s background-size;
+  text-transform: uppercase;
 }
 
 .menu a:hover {

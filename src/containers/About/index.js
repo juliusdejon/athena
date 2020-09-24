@@ -14,9 +14,17 @@ function About() {
         <div className="name">Julius Dejon</div>
 
         <div className="description">
-          <b>Frontend Developer</b> with Full Stack Experience
+          <b className="role">Frontend Developer</b> with{" "}
+          <b className="sub-role">Full Stack Experience</b>
         </div>
-        <p className="long-descriton"></p>
+        <div className="long-description">
+          <p>
+            I'm a software engineer based in the Philippines specializing in web
+            platform. I have 2 years of experience in Developing Web 🕸️
+            applications. I'm inclined to cutting edge technologies, astronomy,
+            and financial stuffs.
+          </p>
+        </div>
       </div>
     </div>
   );

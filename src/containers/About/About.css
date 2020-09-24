@@ -25,7 +25,7 @@
 
 .name {
   margin-top: 12px;
-  font-size: 44px;
+  font-size: 62px;
   font-weight: bold;
   background-image: linear-gradient(to right, #e77d11, #fda400);
   background-clip: text;
@@ -34,7 +34,21 @@
 }
 
 .description {
-  margin-top: 12px;
-  color: #ff5064;
+  margin-top: 4px;
+  font-size: 16px;
+  color: #2a62a1;
+}
+.role {
   font-size: 22px;
+  color: #61dbfb;
+}
+.sub-role {
+  font-size: 22px;
+  color: #7a378b;
+}
+
+.long-description {
+  margin-top: 12px;
+  width: 600px;
+  color: whitesmoke;
 }
