@@ -50,15 +50,16 @@
   color: whitesmoke;
 }
 .button-container {
-  margin-top: 16px;
+  margin-top: 24px;
 }
 .btn-primary {
   height: 40px;
-  width: 170px;
+  width: 160px;
   color: white;
   border: none;
   font-size: 14px;
   background-color: #1dbc9b;
+  border-radius: 4px;
 }
 .btn-primary:hover {
   cursor: pointer;
