@@ -1,5 +1,7 @@
 .absolute-container {
   position: absolute;
+  height: 100%;
+  width: 100%;
 }
 
 .about-container {
@@ -48,6 +50,10 @@
   margin-top: 12px;
   width: 600px;
   color: whitesmoke;
+}
+.long-description p {
+  line-height: 1.4;
+  font-size: 16px;
 }
 .button-container {
   margin-top: 24px;

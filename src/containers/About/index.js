@@ -31,7 +31,7 @@ function About() {
           <p>
             I'm a software engineer based in the Philippines specializing in web
             platform. I have {years_of_experience} years of experience in
-            Developing Web 🕸️ applications. I'm inclined to cutting edge
+            Developing Web applications. I'm inclined to cutting edge
             technologies, astronomy, and financial stuffs.
           </p>
           <br />
