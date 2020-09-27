@@ -41,6 +41,9 @@ function About() {
             Solutions Architect-Associate.
           </p>
         </div>
+        <div className="button-container">
+          <button className="btn-primary">Contact me</button>
+        </div>
         <div className="earth-container">
           <img src={moon} alt="earth" />
         </div>

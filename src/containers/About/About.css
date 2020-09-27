@@ -1,12 +1,9 @@
 .absolute-container {
   position: absolute;
-  top: 40px;
-  left: 0;
-  width: 100%;
-  height: 90%;
 }
 
 .about-container {
+  position: relative;
   min-height: 50vh;
   align-items: center;
   margin: 120px 0px 0px 120px;
@@ -52,7 +49,20 @@
   width: 600px;
   color: whitesmoke;
 }
-
+.button-container {
+  margin-top: 16px;
+}
+.btn-primary {
+  height: 40px;
+  width: 170px;
+  color: white;
+  border: none;
+  font-size: 14px;
+  background-color: #1dbc9b;
+}
+.btn-primary:hover {
+  cursor: pointer;
+}
 .earth-container {
   position: absolute;
   /* bottom: -55px; */
